@@ -184,10 +184,21 @@ For deployment issues, see:
 - [DEPLOYMENT.md](DEPLOYMENT.md) - Full troubleshooting guide
 - [InfinityFree Forum](https://forum.infinityfree.net)
 
+## Repository
+
+**GitHub:** [https://github.com/SheerMichael/barangay-blotter-system](https://github.com/SheerMichael/barangay-blotter-system)
+
 ## License
 
-[Add your license here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributors
 
-[Add contributors here]
+- **Sheer Michael C. Librero** - *Initial work* - [SheerMichael](https://github.com/SheerMichael)
+
+## Acknowledgments
+
+- PHPMailer for email functionality
+- Tailwind CSS for styling
+- Chart.js for data visualization
+- Tom Select for enhanced select inputs
